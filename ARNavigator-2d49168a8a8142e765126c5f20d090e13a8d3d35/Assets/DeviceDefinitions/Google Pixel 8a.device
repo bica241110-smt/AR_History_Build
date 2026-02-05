@@ -1,0 +1,27 @@
+{
+  "friendlyName": "Google Pixel 8a",
+  "version": 1,
+  "systemInfo": {
+    "operatingSystem": "Android 14"
+  },
+  "screens": [
+    {
+      "orientation": "Portrait",
+      "width": 1080,
+      "height": 2400,
+      "dpi": 430
+    },
+    {
+      "orientation": "LandscapeLeft",
+      "width": 2400,
+      "height": 1080,
+      "dpi": 430
+    },
+    {
+      "orientation": "LandscapeRight",
+      "width": 2400,
+      "height": 1080,
+      "dpi": 430
+    }
+  ]
+}
