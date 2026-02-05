@@ -1,0 +1,1 @@
+C:\Users\moran\ARnavigation_test\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\416w6av1\obj\arm64-v8a
