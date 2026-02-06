@@ -1,0 +1,34 @@
+# すべてのテキストファイルはLFを使用
+* text=auto eol=lf
+
+# C# ソースコード（明示的にLF）
+*.cs text eol=lf
+
+# Unity 特有のファイルは基本的にバイナリとして扱う
+*.unity binary
+*.prefab binary
+*.asset binary
+*.mat binary
+*.anim binary
+*.controller binary
+*.fbx binary
+*.png binary
+*.jpg binary
+*.psd binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+
+# Unity のメタファイルはテキストとして扱う
+*.meta text eol=lf
+
+# シェーダーやテキストベースの設定ファイルもLFで
+*.shader text eol=lf
+*.cginc text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.xml text eol=lf
+
+# Visual Studio 関連
+*.sln text eol=crlf
+*.csproj text eol=crlf
